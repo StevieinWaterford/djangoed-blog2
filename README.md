@@ -1,0 +1,1 @@
+# djangoed-blog2
